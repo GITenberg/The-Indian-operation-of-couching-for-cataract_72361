@@ -1,0 +1,32 @@
+_repo: The-Indian-operation-of-couching-for-cataract_72361
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elliot, Robert H. (Robert Henry)
+    alias: Elliot, Robert Henry
+    birthdate: 1837
+    deathdate: 1914
+    gutenberg_agent_id: '5202'
+    url: http://www.gutenberg.org/2009/agents/5202
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Henry_Elliot
+description: ''
+gutenberg_issued: '2023-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72361'
+language: en
+pgterms:marc904: https://archive.org/details/indianoperationo00elliiala
+pgterms:marc905: 20220609044250elliot
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Thiers Halliwell, deaurider and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bPaul B. Hoeber, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Indian operation of couching for cataract
+url: http://www.gutenberg.org/ebooks/72361
