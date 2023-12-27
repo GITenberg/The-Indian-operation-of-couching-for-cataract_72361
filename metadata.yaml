@@ -1,5 +1,8 @@
 _repo: The-Indian-operation-of-couching-for-cataract_72361
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72361-h/images/cover.jpg
 creator:
   author:
     agent_name: Elliot, Robert H. (Robert Henry)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5202
     wikipedia: https://en.wikipedia.org/wiki/Robert_Henry_Elliot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72361#The-Indian-operation-of-couching-for-cataract
 gutenberg_issued: '2023-12-09'
 gutenberg_type: Text
 identifiers:
